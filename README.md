@@ -1,2 +1,3 @@
 # cr
 yalll
+print("all")
